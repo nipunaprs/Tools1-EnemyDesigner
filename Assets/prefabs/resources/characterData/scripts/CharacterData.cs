@@ -11,7 +11,7 @@ public class CharacterData : ScriptableObject
     public float maxEnergy;
     public float critChance;
     public float power;
-    public float name;
+    public string name;
 
 
 

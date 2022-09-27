@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b59c2e87f2400ec418216f26dd6b060c, type: 3}
+  m_Name: bob
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2386392733012226700, guid: 71c0f54dca59c9446af94e9feaf533a3, type: 3}
+  maxHealth: 200
+  maxEnergy: 10
+  critChance: 3.19
+  power: 15.1
+  name: bob
+  dmgType: 0
+  wpnType: 0
